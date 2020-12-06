@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/demoRepo/static/css/main.327c1007.chunk.css",
+    "main.js": "/demoRepo/static/js/main.77a79b94.chunk.js",
+    "main.js.map": "/demoRepo/static/js/main.77a79b94.chunk.js.map",
+    "runtime-main.js": "/demoRepo/static/js/runtime-main.b908cfc5.js",
+    "runtime-main.js.map": "/demoRepo/static/js/runtime-main.b908cfc5.js.map",
+    "static/js/2.1a914555.chunk.js": "/demoRepo/static/js/2.1a914555.chunk.js",
+    "static/js/2.1a914555.chunk.js.map": "/demoRepo/static/js/2.1a914555.chunk.js.map",
+    "static/css/3.a8f0041a.chunk.css": "/demoRepo/static/css/3.a8f0041a.chunk.css",
+    "static/js/3.41b65055.chunk.js": "/demoRepo/static/js/3.41b65055.chunk.js",
+    "static/js/3.41b65055.chunk.js.map": "/demoRepo/static/js/3.41b65055.chunk.js.map",
+    "static/css/4.fe1e5725.chunk.css": "/demoRepo/static/css/4.fe1e5725.chunk.css",
+    "static/js/4.aa4c4def.chunk.js": "/demoRepo/static/js/4.aa4c4def.chunk.js",
+    "static/js/4.aa4c4def.chunk.js.map": "/demoRepo/static/js/4.aa4c4def.chunk.js.map",
+    "static/css/5.3e6e450b.chunk.css": "/demoRepo/static/css/5.3e6e450b.chunk.css",
+    "static/js/5.b36b0cfe.chunk.js": "/demoRepo/static/js/5.b36b0cfe.chunk.js",
+    "static/js/5.b36b0cfe.chunk.js.map": "/demoRepo/static/js/5.b36b0cfe.chunk.js.map",
+    "static/js/6.7fd10348.chunk.js": "/demoRepo/static/js/6.7fd10348.chunk.js",
+    "static/js/6.7fd10348.chunk.js.map": "/demoRepo/static/js/6.7fd10348.chunk.js.map",
+    "index.html": "/demoRepo/index.html",
+    "static/css/3.a8f0041a.chunk.css.map": "/demoRepo/static/css/3.a8f0041a.chunk.css.map",
+    "static/css/4.fe1e5725.chunk.css.map": "/demoRepo/static/css/4.fe1e5725.chunk.css.map",
+    "static/css/5.3e6e450b.chunk.css.map": "/demoRepo/static/css/5.3e6e450b.chunk.css.map",
+    "static/css/main.327c1007.chunk.css.map": "/demoRepo/static/css/main.327c1007.chunk.css.map",
+    "static/js/2.1a914555.chunk.js.LICENSE.txt": "/demoRepo/static/js/2.1a914555.chunk.js.LICENSE.txt",
+    "static/media/preloader.b67ad5ee.svg": "/demoRepo/static/media/preloader.b67ad5ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b908cfc5.js",
+    "static/js/2.1a914555.chunk.js",
+    "static/css/main.327c1007.chunk.css",
+    "static/js/main.77a79b94.chunk.js"
+  ]
+}
